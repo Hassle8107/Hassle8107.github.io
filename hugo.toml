@@ -1,0 +1,4 @@
+baseURL = 'http://Hassle8107.github.io/'
+languageCode = 'en-us'
+title = 'Attacking CI/CD'
+theme = 'PaperMod'
